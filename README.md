@@ -15,6 +15,6 @@ To use this library, reference it in your .NET project and call the provided met
 ## License
 This project is licensed under the CC BY-NC-ND 4.0 License - see [LICENSE](https://creativecommons.org/licenses/by-nc-nd/4.0/) for details.
 ## Author
-Kristian Holm Buch - [GitHub](https://github.com/krisbuch) | [LinkedIn](https://www.linkedin.com/in/krisbuch/)
+Kristian Holm Buch - [GitHub](https://github.com/kristianbuch) | [LinkedIn](https://www.linkedin.com/in/kristianbuch/)
 
 © 2025 - Kristian Holm  Buch. 
