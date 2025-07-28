@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Bluarch Win32 Window Handle Library")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+765bf52fb15113db036f3a082b71c35749c039ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bluarch.Win32.WindowHandle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bluarch.Win32.WindowHandle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
